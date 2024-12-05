@@ -3,10 +3,7 @@ import pygame
 import os
 import random
 import cv2
-import cvzone
 from cvzone.HandTrackingModule import HandDetector
-import pyautogui as auto
-import time
 
 # Khởi động pygame
 pygame.init()
